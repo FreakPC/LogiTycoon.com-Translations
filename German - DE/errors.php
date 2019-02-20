@@ -1,57 +1,57 @@
 <?php
 /*
 ------------------
-Language:   English
+Language:   German
 Type:       Errors
 ------------------
 */
 
 $langerrors = array(
 //ERROR TYPES
-"ERROR"          => "Error",
-"WARNING"        => "Warning",
-"SUCCESS"        => "Success",
+"ERROR"          => "Fehler",
+"WARNING"        => "Warnung",
+"SUCCESS"        => "Erfolg",
 "INFO"           => "Info",
 
 //BASIC ERRORS
-"ERROR_NOCOMP"               => "You do not have a company. Create one first!",
-"ERROR_NOCOMP2"              => "You do not have a company.",
-"ERROR_NOMONEY"              => "Your company does not have enough money on its payment account!",
-"ERROR_INVALID_NUMBER"       => "Invalid number!",
-"ERROR_INVALID_COMP2"        => "Wait.. what company are you looking for?",
-"ERROR_INVALID_COMP"         => "That company does not exist!",
-"ERROR_INVALID_CITY"         => "Invalid city!",
-"ERROR_INVALID_COUNTRY"      => "Invalid country!",
-"ERROR_INVALID_OBJECT"       => "Invalid object!",
-"ERROR_LEVEL_TOO_LOW"        => "You do not have the required level!",
-"ERROR_SELECTED"             => "Selected.",
-"ERROR_INVALID_MEMBER"       => "Member does not exist!",
-"ERROR_INVALID_REQUEST"      => "Invalid request!",
+"ERROR_NOCOMP"               => "Du besitzt kein Unternemen. Erstelle zuerst eines!",
+"ERROR_NOCOMP2"              => "Du besitzt kein Unternemen.",
+"ERROR_NOMONEY"              => "Dein Unternemen hat nicht genug Geld auf dem Konto!",
+"ERROR_INVALID_NUMBER"       => "Ungültige Zahl!",
+"ERROR_INVALID_COMP2"        => "Warte.. nach welchem Unternehmen suchst du?",
+"ERROR_INVALID_COMP"         => "Dieses Unternehmen existiert nicht!",
+"ERROR_INVALID_CITY"         => "Ungültige Stadt!",
+"ERROR_INVALID_COUNTRY"      => "Ungültiges Land!",
+"ERROR_INVALID_OBJECT"       => "Ungültiges Objekt!",
+"ERROR_LEVEL_TOO_LOW"        => "Du hast nicht das benötigte Level erreicht!",
+"ERROR_SELECTED"             => "Ausgewählt.",
+"ERROR_INVALID_MEMBER"       => "Mitglied existiert nicht!",
+"ERROR_INVALID_REQUEST"      => "Ungültige Anfrage!",
 
 
 //Premium
-"ERROR_PURCHASE_COMPL"           => "Purchase completed.",
-"ERROR_PAY_ID_INVALID"           => "Payment ID invalid.",
-"ERROR_PAYMENT_COMPL"            => "Payment completed.",
-"ERROR_PAYMENT_EXP"              => "Payment expired. Please try again.",
-"ERROR_PAYMENT_CANCELLED"        => "You have cancelled the payment.",
-"ERROR_PAYMENT_NOT_ACCEPTED"     => "Payment not accepted.",
-"ERROR_PREMIUM_BOUGHT"           => "Premium function bought.",
-"ERROR_NOT_ENOUGH_CREDITS"       => "You do not have enough premium credits, buy them first!",
-"ERROR_PREMIUM_REQ"              => "You will need a premium account for this.",
+"ERROR_PURCHASE_COMPL"           => "Kauf abgeschlossen.",
+"ERROR_PAY_ID_INVALID"           => "Kauf-ID ungültig.",
+"ERROR_PAYMENT_COMPL"            => "Zahlung abgeschlossen.",
+"ERROR_PAYMENT_EXP"              => "Zahlung benötigt. Bitte versuche es erneut.",
+"ERROR_PAYMENT_CANCELLED"        => "Du hast die Zahlung abgeschlossen.",
+"ERROR_PAYMENT_NOT_ACCEPTED"     => "Zahlung nicht angenommen.",
+"ERROR_PREMIUM_BOUGHT"           => "Premium gekauft.",
+"ERROR_NOT_ENOUGH_CREDITS"       => "Du hast nicht genug Premium-Credits, kaufe diese zuerst!",
+"ERROR_PREMIUM_REQ"              => "Du brauchst einen Premium-Account dafür.",
 
 //Video Reward
-"ERROR_REWARD_CLAIMED"           => "Reward claimed!",
-"ERROR_DAY_LIMIT_REACHED"        => "Daily limit reached!",
+"ERROR_REWARD_CLAIMED"           => "Belohnung abgeholt!",
+"ERROR_DAY_LIMIT_REACHED"        => "Tägliches Limit erreicht!",
 
 //User
 
     //General
-    "ERROR_TUTORIAL_SKIPPED"     => "You have skipped the tutorial.",
+    "ERROR_TUTORIAL_SKIPPED"     => "Du hast das Tutorial übersprungen.",
 
     //Messages
-    "ERROR_MESSAGE_SENT"         => "Message sent.",
-    "ERROR_BLACKLISTED"          => "You have been blacklisted by this member!",
+    "ERROR_MESSAGE_SENT"         => "Nachricht gesendet.",
+    "ERROR_BLACKLISTED"          => "Du hast dieses Mitglied blockiert!",
     "ERROR_MSG_SUBJECT_SHORT"    => "Subject is not long enough!",
     "ERROR_MSG_CONTENT_SHORT"    => "Content is not long enough!",
     "ERROR_INVALID_MESSAGE"      => "Message not found!",
