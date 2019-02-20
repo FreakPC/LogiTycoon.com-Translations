@@ -72,7 +72,7 @@ $langerrors = array(
 //Company + Corporation
 
     //General
-    "ERROR_NAME_EXISTS"          => "Name already exists!",
+    "ERROR_NAME_EXISTS"          => "Benutzername existiert bereits!",
     "ERROR_NAME_SHORT"           => "Name is too short! Minimum is 6 characters!",
     "ERROR_NAME_SHORT2"          => "Name is too short! Minimum is 3 characters!",
     "ERROR_NAME_LONG"            => "Name is too long! Only 18 characters allowed!",
