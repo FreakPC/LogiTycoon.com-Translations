@@ -52,12 +52,12 @@ $langerrors = array(
     //Messages
     "ERROR_MESSAGE_SENT"         => "Nachricht gesendet.",
     "ERROR_BLACKLISTED"          => "Du hast dieses Mitglied blockiert!",
-    "ERROR_MSG_SUBJECT_SHORT"    => "Subject is not long enough!",
-    "ERROR_MSG_CONTENT_SHORT"    => "Content is not long enough!",
-    "ERROR_INVALID_MESSAGE"      => "Message not found!",
-    "ERROR_MSG_NO_SUBJECT"       => "No subject filled!",
-    "ERROR_MSG_NO_RECEIVER"      => "No receiver filled!",
-    "ERROR_MSG_NO_CONTENT"       => "No content filled!",
+    "ERROR_MSG_SUBJECT_SHORT"    => "Der Betreff ist nicht lang genug!",
+    "ERROR_MSG_CONTENT_SHORT"    => "Der Inhalt ist nicht lang genug!",
+    "ERROR_INVALID_MESSAGE"      => "Nachricht nicht gefunden!",
+    "ERROR_MSG_NO_SUBJECT"       => "Kein Betreff eingegeben!",
+    "ERROR_MSG_NO_RECEIVER"      => "Kein Empfänger eingegeben!",
+    "ERROR_MSG_NO_CONTENT"       => "Kein Inhalt eingegeben!",
 
     //Profile
     "ERROR_CURRENT_PASSWORD"     => "You have to fill in your current password!",
